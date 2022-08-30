@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>
-  <a href="#-descrição">Descrição</a>
+  <a href="#-descricao">Descrição</a>
 </p>
 
 ## 💻 Projeto
