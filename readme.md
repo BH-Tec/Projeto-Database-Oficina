@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-descricao">Descrição</a>
 </p>
 
@@ -11,7 +11,7 @@
 
 Projeto criado para o curso "Construindo um esquema conceitual do zero" da DIO.
 
-## 📚 Desrição
+## 📚 Descrição
 
 Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos. Caso encontre algo que não foi definido na narrativa, utilize a sua compreensão do contexto e deixe uma descrição no README do seu github. para verificação.
 
